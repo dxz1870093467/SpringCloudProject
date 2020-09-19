@@ -1,0 +1,5 @@
+###配置eureka server 连接地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:11111/eureka/

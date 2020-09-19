@@ -29,5 +29,5 @@ public interface UserDao {
 	 * @throws Exception
 	 * @return Integer
 	 */
-	Integer update(User user)throws Exception;
+	Integer update(User user)throws  Exception;
 }
